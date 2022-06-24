@@ -28,7 +28,7 @@ Languages:
     - ID: "d0152f40-db44-5ed9-80a3-7f451f8ca22e"
       Hint: content
       Value: |
-        <p>This is a live set of examples of how to use JSS. For more information on using JSS, please see <a href="https://jss.sitecore.com" target="_blank" rel="noopener noreferrer">the documentation</a>.</p>
+        <p>This is a live set of examples of how to use Roger's version of JSS. For more information on using JSS, please see <a href="https://jss.sitecore.com" target="_blank" rel="noopener noreferrer">the documentation</a>.</p>
         <p>The content and layout of this page is defined in <code>/data/routes/styleguide/en.yml</code></p>
         
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
